@@ -1,0 +1,128 @@
+[
+    {
+        "Assets Type": "Diversified",
+        "DPU (sen)": "2.0500",
+        "NAV (RM)": "1.4783",
+        "Period": "Q1 \u2013 Sep16",
+        "Price (RM)": "1.150",
+        "REIT": "YTL Hospitality Reit",
+        "Yield": "6.982%"
+    },
+    {
+        "Assets Type": "Office",
+        "DPU (sen)": "4.2300",
+        "NAV (RM)": "1.3175",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.220",
+        "REIT": "MRCB Quill Reit",
+        "Yield": "6.934%"
+    },
+    {
+        "Assets Type": "Retail",
+        "DPU (sen)": "1.4200",
+        "NAV (RM)": "1.1584",
+        "Period": "Q3 \u2013 Sep16",
+        "Price (RM)": "0.925",
+        "REIT": "AmanahRaya REIT",
+        "Yield": "6.789%"
+    },
+    {
+        "Assets Type": "Retail",
+        "DPU (sen)": "2.6000",
+        "NAV (RM)": "1.4574",
+        "Period": "Q3 \u2013 Sep16",
+        "Price (RM)": "1.610",
+        "REIT": "Hektar Real Estate Inv Trust",
+        "Yield": "6.522%"
+    },
+    {
+        "Assets Type": "Office",
+        "DPU (sen)": "5.2200",
+        "NAV (RM)": "1.6582",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.690",
+        "REIT": "UOA Real Estate Inv Trust",
+        "Yield": "6.462%"
+    },
+    {
+        "Assets Type": "Office",
+        "DPU (sen)": "1.9300",
+        "NAV (RM)": "1.2670",
+        "Period": "1H \u2013 Sep16",
+        "Price (RM)": "0.780",
+        "REIT": "AmFirst Reit",
+        "Yield": "6.410%"
+    },
+    {
+        "Assets Type": "Office",
+        "DPU (sen)": "3.2000",
+        "NAV (RM)": "1.9424",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.190",
+        "REIT": "Tower Real Estate Inv Trust",
+        "Yield": "5.824%"
+    },
+    {
+        "Assets Type": "Diversified",
+        "DPU (sen)": "2.7700",
+        "NAV (RM)": "1.3547",
+        "Period": "Q1 \u2013 Sep16",
+        "Price (RM)": "1.740",
+        "REIT": "Sunway Reit",
+        "Yield": "5.649%"
+    },
+    {
+        "Assets Type": "Malls",
+        "DPU (sen)": "4.2000",
+        "NAV (RM)": "1.2798",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.560",
+        "REIT": "CapitaLand Malaysia Mall",
+        "Yield": "5.250%"
+    },
+    {
+        "Assets Type": "Malls",
+        "DPU (sen)": "4.4100",
+        "NAV (RM)": "1.0732",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.580",
+        "REIT": "IGB Real Estate Investment Trust",
+        "Yield": "5.146%"
+    },
+    {
+        "Assets Type": "Industrial",
+        "DPU (sen)": "1.5000",
+        "NAV (RM)": "1.4255",
+        "Period": "Q3 \u2013 Sep16",
+        "Price (RM)": "1.090",
+        "REIT": "Atrium Real Estate Investment",
+        "Yield": "5.138%"
+    },
+    {
+        "Assets Type": "Office",
+        "DPU (sen)": "2.0500",
+        "NAV (RM)": "1.2590",
+        "Period": "Q3 \u2013 Sep16",
+        "Price (RM)": "1.680",
+        "REIT": "Axis Real Estate Inv Trust",
+        "Yield": "4.881%"
+    },
+    {
+        "Assets Type": "Malls",
+        "DPU (sen)": "4.1600",
+        "NAV (RM)": "1.2536",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.770",
+        "REIT": "Pavilion Real Estate Investment Trust",
+        "Yield": "4.689%"
+    },
+    {
+        "Assets Type": "Plantation",
+        "DPU (sen)": "3.9000",
+        "NAV (RM)": "1.2105",
+        "Period": "1H \u2013 Jun16",
+        "Price (RM)": "1.640",
+        "REIT": "Al-AQAR Healthcare Reit",
+        "Yield": "3.921%"
+    }
+]

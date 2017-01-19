@@ -1,0 +1,209 @@
+REIT
+
+Period
+
+DPU (sen)
+
+Price (RM)
+
+Yield
+
+NAV (RM)
+
+Assets Type
+
+YTL Hospitality Reit
+
+Q4 – Jun16
+
+2.1413
+
+1.150
+
+6.869%
+
+1.3386
+
+Diversified
+
+AmanahRaya REIT
+
+Q2 – Jun16
+
+1.4900
+
+0.935
+
+6.813%
+
+1.1725
+
+Retail
+
+MRCB Quill Reit
+
+1H – Jun16
+
+4.2300
+
+1.250
+
+6.768%
+
+1.3198
+
+Office
+
+Hektar Real Estate Inv Trust
+
+Q2 – Jun16
+
+2.6000
+
+1.570
+
+6.688%
+
+1.4584
+
+Retail
+
+UOA Real Estate Inv Trust
+
+1H – Jun16
+
+5.2200
+
+1.710
+
+6.386%
+
+1.6572
+
+Office
+
+AmFirst Reit
+
+2H – Mar16
+
+3.0700
+
+0.805
+
+6.335%
+
+1.2591
+
+Office
+
+Tower Real Estate Inv Trust
+
+1H – Jun16
+
+3.2000
+
+1.210
+
+5.727%
+
+1.9424
+
+Office
+
+Atrium Real Estate Investment
+
+Q2 – Jun16
+
+1.5000
+
+1.080
+
+5.324%
+
+1.4530
+
+Industrial
+
+Sunway Reit
+
+Q4 – Jun16
+
+2.1200
+
+1.730
+
+5.306%
+
+1.3549
+
+Diversified
+
+CapitaLand Malaysia Mall
+
+1H – Jun16
+
+4.2000
+
+1.550
+
+5.284%
+
+1.2803
+
+Malls
+
+IGB Real Estate Investment Trust
+
+1H – Jun16
+
+4.4100
+
+1.640
+
+4.957%
+
+1.0526
+
+Malls
+
+Pavilion Real Estate Investment Trust
+
+1H – Jun16
+
+4.1600
+
+1.770
+
+4.689%
+
+1.2751
+
+Malls
+
+Axis Real Estate Inv Trust
+
+Q2 – Jun16
+
+2.0500
+
+1.750
+
+4.686%
+
+1.2465
+
+Office
+
+Al-AQAR Healthcare Reit
+
+1H – Jun16
+
+3.9000
+
+1.510
+
+4.258%
+
+1.2082
+
+Plantation

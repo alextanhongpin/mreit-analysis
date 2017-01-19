@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %} Date {% endblock %}
+
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{% block content %}
+<div class='container'>
+  <table class='table table-hover'>
+    <thead>
+      <tr>
+        <th>
+        <a href='/date/{{reits[0]["date"]}}?sort_by=date'>Date</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=assets_type'>Assets Type</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=dpu_sen'>DPU (sen)</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=nav_rm'>NAV (RM)</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=period'>Period</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=price_rm'>Price (RM)</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=name'>Name</a>
+        </th>
+        <th>
+          <a href='/date/{{reits[0]["date"]}}?sort_by=yield'>Yield</a>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for reit in reits %}
+
+    <tr>
+      <td><a href='/date/{{reit["date"]}}'>{{reit['date']}}</a></td>
+      <td>{{reit['assets_type']}}</td>
+      <td>{{reit['dpu_sen']}}</td>
+      <td>{{reit['nav_rm']}}</td>
+      <td>{{reit['period']}}</td>
+      <td>{{reit['price_rm']}}</td>
+      <td><a href='/reits/{{reit["name"]}}'>{{reit['name']}}</a></td>
+      <td>{{reit['yield']}}</td>
+    </tr>
+
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}
